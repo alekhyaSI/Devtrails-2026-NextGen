@@ -20,10 +20,10 @@ Contents:
 
 ## 👥 Team Members
 
- Alekhya – Team Leader & AI/ML Developer \n
- Jyothika – UI/UX Designer
- Ashritha – Frontend Developer
- Lalith – Backend Developer & Documentation
- Venugopal – Backend Developer
+- Alekhya – Team Leader & AI/ML Developer 
+- Jyothika – UI/UX Designer
+- Ashritha – Frontend Developer
+- Lalith – Backend Developer & Documentation
+- Venugopal – Backend Developer
 
 
