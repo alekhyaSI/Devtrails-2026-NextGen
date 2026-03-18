@@ -15,7 +15,8 @@ Contents:
 - Weekly Premium Model & Triggers  
 - AI/ML Integration  
 - Tech Stack & Development Plan
-
+- ppt
+- Adversarial Defense & Anti-Spoofing Strategy
 ## YouTube Link: 
 
 ## 👥 Team Members
