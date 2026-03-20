@@ -17,7 +17,8 @@ Contents:
 - Tech Stack & Development Plan
 - ppt
 - Adversarial Defense & Anti-Spoofing Strategy
-## YouTube Link: 
+- 
+## Video Link: "https://drive.google.com/file/d/1xsdtwa3qBSkI9AemO-bM-KMd_atOgyuA/view?usp=drive_link"
 
 ## 👥 Team Members
 
